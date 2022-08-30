@@ -1,0 +1,9 @@
+Your report must include a written description of at least two observable trends based on the data.
+
+1. Students from Independent schools appear to perform slightly better than students from Government schools.
+They also have a significantly higher overall passing rate. 
+The reason for this could be that Independent schools employ better teachers than Government schools. 
+
+2. There is an interesting trend which tells us that the smaller the school size, the better the students will perform.
+As school sizes increase, it appears the the overall passing rate of students will decrease. 
+The reason for this could be that smaller class sizes may be more beneficial for a student's learning. 
